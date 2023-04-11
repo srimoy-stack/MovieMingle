@@ -66,7 +66,7 @@ Start the server
 
 ## Demo
 
-Insert gif or link to demo
+Link to demo
 
 https://shiny-starburst-a98ce2.netlify.app/
 
