@@ -100,11 +100,7 @@ architecture for efficient development.
 
 7. TMDB API Integration: Powered by TMDB API for comprehensive movie data.
 
-RO eat ae Vai ale eT delle Mee RUT mae ole le 1 fo la
-
-9. Educational Resource: Valuable learning tool for developers interested in React and API
-
-integration.
+8. Educational Resource: Valuable learning tool for developers interested in React and API integration.
 
 Overall, MovieMingle  offers a powerful and user-friendly movie information app with a sleek design, modern technologies, and robust features.
 
