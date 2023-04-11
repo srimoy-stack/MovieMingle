@@ -82,21 +82,17 @@ To deploy this project run
 ## Features
 MovieMingle Features:
 
-1. Movie Search: Powerful search functionality allows users to search for movies based on
-keywords.
+1. Movie Search: Powerful search functionality allows users to search for movies based on keywords.
 
-2. Movie Details: Detailed information for each movie, including title, poster, overview,
-ratings, release date, genre, and runtime.
+2. Movie Details: Detailed information for each movie, including title, poster, overview,ratings, release date, genre, and runtime.
 
 3. Error Handling: Graceful handling of API errors for a smooth user experience.
 
-4. Responsive Design: Modern and responsive design for optimal viewing on different
-(Ve
+4. Responsive Design: Modern and responsive design for optimal viewing on different  devices.
 
 5. Visually Appealing UI: Sleek and visually pleasing interface with prominent movie details.
 
-6. Component-Based Architecture: Built using React's modular component-based
-architecture for efficient development.
+6. Component-Based Architecture: Built using React's modular component-based architecture for efficient development.
 
 7. TMDB API Integration: Powered by TMDB API for comprehensive movie data.
 
